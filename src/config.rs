@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["www.liao1128.top"];
-pub const RS_PUB_KEY: &str = "cDnHbXiFb9JuluuV36s9DiJZIAz+o+EO8Fbp1asI+o8=";
+pub const RS_PUB_KEY: &str = "RG9unbgq1LV7790G+lhVO+36EiV9pmy7dH5nZtGl8Fc=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
